@@ -5,12 +5,12 @@
 ### **Fitur**  
 1. **Login dan Register Pengguna**  
 2. **CRUD Peralatan Fitness** (Tambah, Edit, Hapus, Lihat)  
-   **- Pencarian berdasarkan Nama atau Kode Peralatan**  
-   **- Filter berdasarkan Kategori Alat**  
+   - Pencarian berdasarkan Nama atau Kode Peralatan  
+   - Filter berdasarkan Kategori Alat  
 3. **CRUD Pelanggan** (Tambah, Edit, Hapus, Lihat)  
 4. **CRUD Transaksi Penyewaan** (Tambah, Edit, Hapus, Lihat)  
-   **- Filter Transaksi berdasarkan Periode Waktu**  
-   **- Pembuatan Laporan Penyewaan**  
+   - Filter Transaksi berdasarkan Periode Waktu  
+   - Pembuatan Laporan Penyewaan  
 
 ### **Instalasi**  
 1. Clone repository:  
@@ -29,7 +29,7 @@ composer install
 5. Jalankan aplikasi pada server lokal seperti XAMPP atau Laragon.  
 
 ### **Penggunaan**  
-1. **Jalankan server** dan akses aplikasi melalui browser.  
-2. **Kelola penyewaan** dengan antarmuka yang user-friendly.  
-3. **Cetak laporan penyewaan** langsung dari dashboard.  
-4. **Sewa alat fitness kini lebih praktis dan efisien dengan SewaFit!**
+1. Jalankan server dan akses aplikasi melalui browser.  
+2. Kelola penyewaan dengan antarmuka yang user-friendly.  
+3. Cetak laporan penyewaan langsung dari dashboard.  
+4. Sewa alat fitness kini lebih praktis dan efisien dengan SewaPeralatanFitnes!
